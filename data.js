@@ -45,7 +45,7 @@ const PORTFOLIO = {
       company:   "Triverse Technologies",
       role:      "Unity Game Developer",
       location:  "Ashok Nagar",
-      duration:  "1 Year",
+      duration:  "Apr 2023 - Apr 2024 - 1 Year",
       type:      "full-time",
       bullets: [
         "Spearheaded development of 15+ educational games in 2D and 3D formats, driving product growth.",
@@ -250,7 +250,7 @@ const PORTFOLIO = {
   //  Paste the /view URL below
   // ─────────────────────────────────────────────
   resume: {
-    driveUrl: "", // ← paste Google Drive PDF link here
+    driveUrl: "https://drive.google.com/file/d/1yyBsORueQwtDHcjnWljiuKE7yayixApa/view?usp=drive_link", // ← paste Google Drive PDF link here
     fileName: "Sujan_R_Resume.pdf",
   },
 
